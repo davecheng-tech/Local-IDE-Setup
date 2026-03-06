@@ -59,4 +59,4 @@ Choose the version appropriate for your operating system and processor architect
 
 ## Next Steps
 
-Once all three are installed, refer to the [Using GitHub guide](https://github.com/SACHSTech/Using-GitHub) to clone your first repository and get started with your workflow in VSCodium.
+Once all three are installed, refer to the [Using GitHub guide](https://sachstech.github.io/Using-GitHub/) to clone your first repository and get started with your workflow in VSCodium.

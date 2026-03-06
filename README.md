@@ -30,6 +30,17 @@ After installing VSCodium, change the update mode to `none` so it does not updat
 
 ![Change update:mode to none in VSCodium settings](images/update_mode.jpg)
 
+### Extensions: Do Not Install
+
+VSCodium has a marketplace where you can browse and install extensions. **Do not install any extensions** unless explicitly instructed to do so in this course.
+
+In particular, do not install:
+
+- **Extension Pack for Java** (or any of its components, such as Language Support for Java, Debugger for Java, Maven for Java, etc.) — this extension tries to take over how your Java project is built and run. It will conflict with the build setup used in this course and will show false errors on code that works correctly.
+- **Copilot, ChatGPT, or any other AI coding assistant** — these tools write code for you, which defeats the purpose of learning to write it yourself.
+
+The editor works correctly for this course without any extensions.
+
 ## 2. Git
 
 Git is the version control tool that VSCodium uses to sync your code with GitHub.
